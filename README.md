@@ -27,4 +27,4 @@ Pull register kabul edilir. Büyük değişiklikler için, lütfen önce neyi de
 
 # License
 
-[MIT] (https://www.kodluyoruz.org/)
+[MIT](https://www.kodluyoruz.org/)
